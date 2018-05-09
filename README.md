@@ -13,6 +13,7 @@ This should satisfy the three requirements as listed:
 In order to run this application, you should be able to follow these steps:
 
 1. Git Clone from `git clone git@github.com:rhythmsection/grove-scheduler.git`
+2. Run `cd grove-scheduler` to go inside the repo.
 2. Run `npm install`
 3. Run `npm start`
 
